@@ -157,13 +157,19 @@ I believe some of the best learning happens when you actually build something, e
 
 ## 🤝 Let's Connect!
 
-I'm always interested in connecting with developers, IT professionals, researchers, and people working on interesting technology. 🌎
+I'm always interested in connecting with developers, IT professionals, researchers, and people working with interesting technologies. 🌎
 
-💼 **LinkedIn:** [Connect with me](YOUR-LINKEDIN-URL)
+<p align="center">
 
-🌐 **Portfolio:** [Visit my Portfolio](YOUR-PORTFOLIO-URL)
+<a href="https://www.linkedin.com/in/cybermechakazi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
-📧 **Email:** YOUR-EMAIL
+<a href="https://cybermechakazi.github.io/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-green?style=for-the-badge" alt="Portfolio">
+</a>
+
+</p>
 
 ---
 
@@ -171,11 +177,11 @@ I'm always interested in connecting with developers, IT professionals, researche
 
 ### 👀 Thanks for visiting my GitHub!
 
-Feel free to explore my repositories and projects. 🔍
+🔍 Feel free to explore my repositories and projects.
 
-⭐ If you find something interesting, feel free to **star the repository!**
+⭐ Found something interesting? Consider giving the repository a **star!**
 
-🤝 I'm also open to **collaboration, feedback, and learning from other developers.**
+🤝 I'm open to **collaboration, feedback, and connecting with other developers.**
 
 <br>
 
